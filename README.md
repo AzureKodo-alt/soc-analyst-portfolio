@@ -11,27 +11,30 @@ I am building practical skills in:
 
 My goal is to develop the knowledge and  experience required for an entry-level SOC Analyst role.
 
-## Skills
-- Alert Triage & Investigations
-- Phishing Dectection
-- Log Analysis
-- Basic Incident Response
-- Networking Basics
-- Virtual Lab Practice
+## Technical Foundations
 
-## Tools Used
+### Security Concepts
+- Basic understanding of phishing detection
+- Familliar with SOC alert investtgation workflow
+- Introductory incident response concepts
+- Understanding Indicators of Compramise (IOCs)
 
-### Security & SOC
-- SOC Simulator - Alert Triage and investigation practice
-- SIEM (Simulated) - Log analysis and monitoring
+### Log Analysis (Beginner)
+- Reviewing authentication logs (basic)
+- Identifying unusual login behavior
+- Recognizing suspecious IP adderesses
 
-### Lab Environment
-- Virtual Machine - Cybersecurity lab setup
-- Kali Linux - Linux-based security testing environment
+### Networking Basics
+- IP addressing fundamentals
+- DNS concept awareness
+- Common ports (HTTP, HTTPS, SSH)
+
+### System and Lab Environment
+- Linux command-line basics
+- Virtual machine usage
+- Cybersecurity lab practice
 
 ### Documentation
-- Github - Project Portfolio and case report documentation
-
-### Analysis Tools
-- Web Browser - URL inspection and phisihng analysis (VirusTotal)
-- Basic Linux Commands - System navigation and investigation
+- Basic incident documentation
+- Writing investigation notes
+- Screenshot-based reporting
