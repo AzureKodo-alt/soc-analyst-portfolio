@@ -22,7 +22,7 @@ My goal is to develop the knowledge and  experience required for an entry-level 
 ### Log Analysis (Beginner)
 - Reviewing authentication logs (basic)
 - Identifying unusual login behavior
-- Recognizing suspecious IP adderesses
+- Recognizing suspicious IP adderesses
 
 ### Networking Basics
 - IP addressing fundamentals
